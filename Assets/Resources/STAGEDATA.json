@@ -1,0 +1,18 @@
+{
+	"StageData": [
+		{
+      "type":true,
+			"name": "霊帝小学校",
+			"explanation": "廃校になった小学校。\nかつては多くの小学生が通っていた。",
+			"filename": "Image/Item_None",
+      "scenename":"Stage_1"
+		},
+    {
+      "type":false,
+      "name": "ダミー",
+      "explanation": "詳細を書く",
+      "filename": "Image/Item_None",
+      "scenename":"Stage_2"
+    }
+	]
+}

@@ -1,0 +1,46 @@
+{
+	"itemData": [
+		{
+      "type":true,
+			"name": "電池",
+			"price": 50,
+			"explanation": "懐中電灯などのアイテムの\nバッテリーとして使うことが出来る",
+			"filename": "Image/Item_1"
+		},
+		{
+      "type":true,
+			"name": "フィルム",
+			"price": 10,
+			"explanation": "写真を撮る際に使う。\n1枚につき1枚撮影できる。",
+			"filename": "Image/Item_2"
+		},
+		{
+      "type":true,
+			"name": "お札",
+			"price": 150,
+			"explanation": "霊を追い払うことが出来る。\n1枚につき1体。",
+			"filename": "Image/Item_None"
+		},
+		{
+      "type":false,
+			"name": "ダミー2",
+			"price": 1250,
+			"explanation": "ここに説明を書く",
+			"filename": "Image/Item_None"
+		},
+		{
+      "type":false,
+			"name": "ダミー3",
+			"price": 10,
+			"explanation": "ここに説明を書く",
+			"filename": "Image/Item_None"
+		},
+		{
+      "type":false,
+			"name": "ダミー4",
+			"price": 111,
+			"explanation": "ここに説明を書く",
+			"filename": "Image/Item_None"
+		}
+	]
+}
